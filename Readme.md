@@ -17,9 +17,10 @@ A personal portfolio website showcasing projects, skills, and experiences. Built
 - **Contact Form**: Reach out via an embedded form.
 
 ## Setup Instructions
+
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/varshith5577/Portfolio.git"
 
 2. Navigate to the project folder
    cd My Portfolio
