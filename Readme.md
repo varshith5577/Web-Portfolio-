@@ -20,7 +20,7 @@ A personal portfolio website showcasing projects, skills, and experiences. Built
 
 1. Clone the repository:
    ```bash
-   git clone "https://github.com/varshith5577/Portfolio.git"
+   git clone "https://github.com/varshith5577/Web-Portfolio-"
 
 2. Navigate to the project folder
    cd My Portfolio
